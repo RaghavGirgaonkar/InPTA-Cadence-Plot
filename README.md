@@ -3,7 +3,7 @@ Scripts and Codes to create a Cadence Plot of InPTA monitored pulsars.
 
 # Setup
 
-1. Login to `tapti` and make sure you have the 2 bash scripts `getallfilepaths.sh` and `getBANDinfo.sh` and the text files `AllPSRs.txt`, `3Feb2019_cmdinfo.txt` and `3Feb2019_BandInfo.txt` in one directory.
+1. Login to `tapti`, go to `/Data/bcj/INPTA/setupfiles` and make sure you have the 2 bash scripts `getallfilepaths.sh` and `getBANDinfo.sh` and the text files `AllPSRs.txt`, `3Feb2019_cmdinfo.txt` and `3Feb2019_BandInfo.txt` in that directory.
 2. Make both scripts executable by running `chmod +x getallfilepaths.sh` and `chmod +x getBANDinfo.sh`
 
 # Usage
