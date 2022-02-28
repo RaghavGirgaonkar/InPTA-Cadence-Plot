@@ -1,0 +1,1 @@
+./35_016_setup_3Feb2019.txt:BAND            : BAND 5 (1000 - 1460)./35_016_setup_3Feb2019.txt:BAND            : BAND 3 (250-500)./35_016_setup_3Feb2019.txt:BAND            : BAND 4 (550-850)
