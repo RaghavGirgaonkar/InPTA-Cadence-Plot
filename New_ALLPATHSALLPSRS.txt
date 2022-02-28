@@ -1,0 +1,1143 @@
+./34_102_set1_13May2018.cmd.txt:**********  Phasing 2 and PSR  J0437-4715 *************** 14:00
+./35_016_set1_24Dec2018.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 00:00
+./34_102_set1_3Aug2018.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 09:00
+./35_016_set1_2Nov2018.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 03:45
+./34_102_set1_16Jul2018.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 10:00
+./34_102_set1_15Jun2018.cmd.txt:**********  Phasing 2 and PSR  J0437-4715 *************** 12:00
+./34_102_set1_17Aug2018.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 08:00
+./34_102_set1_5May2018_makeup.cmd.txt:**********  Phasing 1 and PSR  J0437-4715 *************** 15:30
+./35_016_set1_18Mar2019.cmd.txt:**********  Phasing 1 and PSR J0437-4715 *************** 17:45
+./34_102_set1_27apr18.cmd.txt:**********  Phasing 1 and PSR  J0437-4715 *************** 15:00
+./35_016_set1_7Jan2019.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 23:00
+./35_016_set1_18Feb2019.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 22:00  
+./35_016_set1_3Feb2019.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 21:00./35_016_set1_3Feb2019.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 21:31./35_016_set1_3Feb2019.cmd.txt:**********  Phasing 4 and PSR  J0751+1807 ***************  22:02./35_016_set1_3Feb2019.cmd.txt:**********  Phasing 5 and PSR J1022+1001  *************** 22:44./35_016_set1_3Feb2019.cmd.txt:**********  Phasing 6 and PSR J1024-0719  *************** 23:32./35_016_set1_3Feb2019.cmd.txt:**********  Phasing 7 and PSR  J0645+5158 *************** 00:08./35_016_set1_3Feb2019.cmd.txt:**********  Phasing 8 and PSR  J1012+5307 *************** 00:52./35_016_set1_4Mar2019.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 19:00  
+./35_016_set1_14Nov2018.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 01:45
+./35_016_set1_11Dec2018.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 01:00
+./35_016_set1_21Jan2019.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 22:00
+./34_102_set1_2Sep2018.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 07:00
+./34_102_set1_30Jun2018.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 11:00
+./34_102_set1_17Sep2018.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 06:00
+./35_016_set1_20Oct2018.cmd.txt:**********  Phasing 2 and PSR J0437-4715 *************** 03:45
+./34_102_set1_28may2018.cmd.txt:**********  Phasing 2 and PSR  J0437-4715 *************** 13:00
+./41_023/41_023_29Oct2021.cmd.txt:****** Starting observation of PSR J0437-4715 *******	03:57
+./41_023/41_023_10Nov2021.cmd.txt:****** Starting observation of PSR J0437-4715 *******	02:59
+./41_023/41_023_21Nov2021.cmd.txt:****** Starting observation of PSR J0437-4715 *******	02:59
+./41_023/41_023_27Nov2021.cmd.txt:****** Starting observation of PSR J0437-4715 *******	00:57
+./41_023/41_023_08Dec2021.cmd.txt:****** Starting observation of PSR J0437-4715 *******	01:59
+./41_023/41_023_17Dec2021.cmd.txt:****** Starting observation of PSR J0437-4715 *******	21:59
+./41_023/41_023_27Dec2021.cmd.txt:****** Starting observation of PSR J0437-4715 *******	21:40
+./41_023/41_023_08Jan2022.cmd.txt:****** Starting observation of PSR J0437-4715 *******	20:40
+./41_023/41_023_17Jan2022.cmd.txt:****** Starting observation of PSR J0437-4715 *******	20:35
+./41_023/41_023_25Jan2022.cmd.txt:****** Starting observation of PSR J0437-4715 *******	19:40
+./41_023/41_023_05Feb2022.cmd.txt:****** Starting observation of PSR J0437-4715 *******	19:44
+./34_102_set1_13May2018.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 ***************14:30
+./35_016_set1_24Dec2018.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 00:31
+./34_102_set1_3Aug2018.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 09:30
+./35_016_set1_2Nov2018.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 04:15
+./34_102_set1_16Jul2018.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 10:30
+./34_102_set1_15Jun2018.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 ***************12:30
+./34_102_set1_17Aug2018.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 08:30
+./34_102_set1_5May2018_makeup.cmd.txt:**********  Phasing 2 and PSR  J0613-0200 ***************16:05
+./35_016_set1_18Mar2019.cmd.txt:**********  Phasing 2 and PSR  J0613-0200 *************** 18:16
+./34_102_set1_27apr18.cmd.txt:**********  Phasing 2 and PSR  J0613-0200 ***************15:35
+./35_016_set1_7Jan2019.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 23:31
+./40_012/40_012_21May2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	13:55
+./40_012/40_012_30May2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	14:33
+./40_012/40_012_20June2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	12:57
+./40_012/40_012_02July2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	12:01
+./40_012/40_012_11Jul2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	11:01
+./40_012/40_012_23Jul2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	12:01
+./40_012/40_012_01Aug2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	09:00
+./40_012/40_012_09Aug2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	09:57
+./40_012/40_012_27Sep2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	05:01
+./40_012/40_012_20Aug2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	07:56
+./40_012/40_012_30Aug2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	08:53
+./40_012/40_012_10Sep2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	10:21
+./40_012/40_012_18sep2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	05:57
+./40_012/40_012_05Oct2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	07:34
+./35_016_set1_18Feb2019.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 22:31  
+./35_016_set1_4Mar2019.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 19:30 
+./35_016_set1_14Nov2018.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 02:15
+./35_016_set1_11Dec2018.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 01:35
+./35_016_set1_21Jan2019.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 22:31
+./34_102_set1_2Sep2018.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 07:30
+./34_102_set1_30Jun2018.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 11:30
+./34_102_set1_17Sep2018.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 06:30
+./35_016_set1_20Oct2018.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 *************** 04:15
+./34_102_set1_28may2018.cmd.txt:**********  Phasing 3 and PSR  J0613-0200 ***************13:30
+./41_023/41_023_29Oct2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	04:24
+./41_023/41_023_10Nov2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	05:18
+./41_023/41_023_21Nov2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	05:18
+./41_023/41_023_27Nov2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	03:20
+./41_023/41_023_08Dec2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	04:18
+./41_023/41_023_17Dec2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	22:25
+./41_023/41_023_27Dec2021.cmd.txt:****** Starting observation of PSR J0613-0200 *******	20:59
+./41_023/41_023_08Jan2022.cmd.txt:****** Starting observation of PSR J0613-0200 *******	20:00
+./41_023/41_023_17Jan2022.cmd.txt:****** Starting observation of PSR J0613-0200 *******	19:59
+./41_023/41_023_25Jan2022.cmd.txt:****** Starting observation of PSR J0613-0200 *******	18:59
+./41_023/41_023_05Feb2022.cmd.txt:****** Starting observation of PSR J0613-0200 *******	19:01
+./34_102_set1_13May2018.cmd.txt:**********  Phasing 4 and PSR  J0645+5158 ***************15:00
+./35_016_set1_24Dec2018.cmd.txt:**********  Phasing 7 and PSR  J0645+5158 *************** 03:15
+./34_102_set1_3Aug2018.cmd.txt:**********  Phasing 4 and PSR  J0645+5158 *************** 10:00
+./35_016_set1_2Nov2018.cmd.txt:**********  Phasing 4 and PSR  J0645+5158 *************** 04:55
+./34_102_set1_16Jul2018.cmd.txt:**********  Phasing 4 and PSR  J0645+5158 *************** 11:00
+./34_102_set1_15Jun2018.cmd.txt:**********  Phasing 4 and PSR  J0645+5158 ***************13:00
+./34_102_set1_17Aug2018.cmd.txt:**********  Phasing 7 and PSR  J0645+5158 *************** 10:35
+./34_102_set1_5May2018_makeup.cmd.txt:**********  Phasing 3 and PSR  J0645+5158 ***************16:35
+./35_016_set1_18Mar2019.cmd.txt:**********  Phasing 7 and PSR  J0645+5158 *************** 20:53
+./34_102_set1_27apr18.cmd.txt:**********  Phasing 3 and PSR  J0645+5158 ***************16:10
+./35_016_set1_7Jan2019.cmd.txt:**********  Phasing 7 and PSR  J0645+5158 *************** 02:08
+./35_016_set1_18Feb2019.cmd.txt:**********  Phasing 7 and PSR  J0645+5158 *************** 01:08  
+./35_016_set1_4Mar2019.cmd.txt:**********  Phasing 7 and PSR  J0645+5158 *************** 21:30 
+./35_016_set1_14Nov2018.cmd.txt:**********  Phasing 4 and PSR  J0645+5158 *************** 02:55
+./35_016_set1_11Dec2018.cmd.txt:**********  Phasing 7 and PSR  J0645+5158 *************** 04:00
+./35_016_set1_21Jan2019.cmd.txt:**********  Phasing 7 and PSR  J0645+5158 *************** 01:08
+./34_102_set1_2Sep2018.cmd.txt:**********  Phasing 4 and PSR  J0645+5158 *************** 08:00
+./34_102_set1_30Jun2018.cmd.txt:**********  Phasing 4 and PSR  J0645+5158 *************** 12:00
+./34_102_set1_17Sep2018.cmd.txt:**********  Phasing 4 and PSR  J0645+5158 *************** 07:00
+./35_016_set1_20Oct2018.cmd.txt:**********  Phasing 4 and PSR  J0645+5158 *************** 04:45
+./34_102_set1_28may2018.cmd.txt:**********  Phasing 4 and PSR  J0645+5158 ***************14:00
+./34_102_set1_13May2018.cmd.txt:**********  Phasing 5 and PSR  J0751+1807 ***************15:45
+./35_016_set1_24Dec2018.cmd.txt:**********  Phasing 4 and PSR  J0751+1807 ***************  01:02
+./34_102_set1_3Aug2018.cmd.txt:**********  Phasing 5 and PSR  J0751+1807 *************** 10:45
+./35_016_set1_2Nov2018.cmd.txt:**********  Phasing 6 and PSR  J0751+1807 *************** 06:20
+./34_102_set1_16Jul2018.cmd.txt:**********  Phasing 5 and PSR  J0751+1807 *************** 11:45
+./34_102_set1_15Jun2018.cmd.txt:**********  Phasing 5 and PSR  J0751+1807 ***************13:45
+./34_102_set1_17Aug2018.cmd.txt:**********  Phasing 4 and PSR  J0751+1807 *************** 9:00
+./35_016_set1_18Mar2019.cmd.txt:**********  Phasing 3 and PSR  J0751+1807 ***************  18:47
+./34_102_set1_27apr18.cmd.txt:**********  Phasing 4 and PSR  J0751+1807 ***************16:45
+./35_016_set1_7Jan2019.cmd.txt:**********  Phasing 4 and PSR  J0751+1807 ***************  00:02
+./40_012/40_012_21May2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	14:46
+./40_012/40_012_30May2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	13:01
+./40_012/40_012_20June2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	12:01
+./40_012/40_012_02July2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	12:57
+./40_012/40_012_11Jul2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	11:52
+./40_012/40_012_23Jul2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	12:57
+./40_012/40_012_01Aug2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	09:50
+./40_012/40_012_09Aug2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	09:01
+./40_012/40_012_27Sep2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	05:52
+./40_012/40_012_20Aug2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	08:47
+./40_012/40_012_30Aug2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	07:01
+./40_012/40_012_10Sep2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	09:34
+./40_012/40_012_18sep2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	06:44
+./40_012/40_012_05Oct2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	08:21
+./35_016_set1_18Feb2019.cmd.txt:**********  Phasing 4 and PSR  J0751+1807 ***************  23:02  
+./35_016_set1_4Mar2019.cmd.txt:**********  Phasing 4 and PSR  J0751+1807 ***************  20:00  
+./35_016_set1_14Nov2018.cmd.txt:**********  Phasing 6 and PSR  J0751+1807 *************** 04:20
+./35_016_set1_11Dec2018.cmd.txt:**********  Phasing 4 and PSR  J0751+1807 ***************  02:10
+./35_016_set1_21Jan2019.cmd.txt:**********  Phasing 4 and PSR  J0751+1807 ***************  23:02
+./34_102_set1_2Sep2018.cmd.txt:**********  Phasing 5 and PSR  J0751+1807 *************** 08:45
+./34_102_set1_30Jun2018.cmd.txt:**********  Phasing 5 and PSR  J0751+1807 *************** 12:45
+./34_102_set1_17Sep2018.cmd.txt:**********  Phasing 5 and PSR  J0751+1807 *************** 07:45
+./35_016_set1_20Oct2018.cmd.txt:**********  Phasing 6 and PSR  J0751+1807 *************** 06:30
+./34_102_set1_28may2018.cmd.txt:**********  Phasing 5 and PSR  J0751+1807 ***************14:45
+./41_023/41_023_29Oct2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	05:06
+./41_023/41_023_10Nov2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	03:25
+./41_023/41_023_21Nov2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	03:25
+./41_023/41_023_27Nov2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	01:24
+./41_023/41_023_08Dec2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	02:25
+./41_023/41_023_17Dec2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	23:06
+./41_023/41_023_27Dec2021.cmd.txt:****** Starting observation of PSR J0751+1807 *******	22:06
+./41_023/41_023_08Jan2022.cmd.txt:****** Starting observation of PSR J0751+1807 *******	21:20
+./41_023/41_023_17Jan2022.cmd.txt:****** Starting observation of PSR J0751+1807 *******	21:11
+./41_023/41_023_25Jan2022.cmd.txt:****** Starting observation of PSR J0751+1807 *******	20:06
+./41_023/41_023_05Feb2022.cmd.txt:****** Starting observation of PSR J0751+1807 *******	20:12
+./34_102_set1_13May2018.cmd.txt:**********  Phasing 6 and PSR  J1012+5307 ***************16:20
+./35_016_set1_24Dec2018.cmd.txt:**********  Phasing 8 and PSR  J1012+5307 *************** 03:52
+./34_102_set1_3Aug2018.cmd.txt:**********  Phasing 6 and PSR  J1012+5307 *************** 11:20
+./35_016_set1_2Nov2018.cmd.txt:**********  Phasing 5 and PSR  J1012+5307 *************** 05:45
+./34_102_set1_16Jul2018.cmd.txt:**********  Phasing 6 and PSR  J1012+5307 *************** 12:20
+./34_102_set1_15Jun2018.cmd.txt:**********  Phasing 6 and PSR  J1012+5307 ***************14:20
+./34_102_set1_17Aug2018.cmd.txt:**********  Phasing 8 and PSR  J1012+5307 *************** 11:20
+./35_016_set1_18Mar2019.cmd.txt:**********  Phasing 7 and PSR  J1012+5307 *************** 21:37
+./34_102_set1_27apr18.cmd.txt:**********  Phasing 5 and PSR J1012+5307  ***************17:20
+./35_016_set1_7Jan2019.cmd.txt:**********  Phasing 8 and PSR  J1012+5307 *************** 02:52
+./40_012/40_012_21May2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	16:13
+./40_012/40_012_30May2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	15:24
+./40_012/40_012_20June2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	14:34
+./40_012/40_012_02July2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	14:24
+./40_012/40_012_11Jul2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	13:24
+./40_012/40_012_23Jul2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	14:34
+./40_012/40_012_01Aug2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	10:40
+./40_012/40_012_09Aug2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	11:34
+./40_012/40_012_27Sep2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	07:24
+./40_012/40_012_20Aug2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	10:14
+./40_012/40_012_30Aug2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	07:57
+./40_012/40_012_10Sep2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	11:08
+./40_012/40_012_18sep2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	08:08
+./40_012/40_012_05Oct2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	09:08
+./35_016_set1_18Feb2019.cmd.txt:**********  Phasing 8 and PSR  J1012+5307 *************** 01:52  
+./35_016_set1_4Mar2019.cmd.txt:**********  Phasing 8 and PSR  J1012+5307 *************** 22:15
+./35_016_set1_14Nov2018.cmd.txt:**********  Phasing 5 and PSR  J1012+5307 *************** 03:45
+./35_016_set1_11Dec2018.cmd.txt:**********  Phasing 8 and PSR  J1012+5307 *************** 04:38
+./35_016_set1_21Jan2019.cmd.txt:**********  Phasing 8 and PSR  J1012+5307 *************** 01:52
+./34_102_set1_2Sep2018.cmd.txt:**********  Phasing 6 and PSR  J1012+5307 *************** 09:20
+./34_102_set1_30Jun2018.cmd.txt:**********  Phasing 6 and PSR  J1012+5307 *************** 13:20
+./34_102_set1_17Sep2018.cmd.txt:**********  Phasing 6 and PSR  J1012+5307 *************** 08:20  
+./35_016_set1_20Oct2018.cmd.txt:**********  Phasing 5 and PSR  J1012+5307 *************** 05:45
+./34_102_set1_28may2018.cmd.txt:**********  Phasing 6 and PSR  J1012+5307 ***************15:20
+./41_023/41_023_29Oct2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	05:48
+./41_023/41_023_10Nov2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	04:06
+./41_023/41_023_21Nov2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	04:06
+./41_023/41_023_27Nov2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	02:06
+./41_023/41_023_08Dec2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	03:06
+./41_023/41_023_17Dec2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	23:47
+./41_023/41_023_27Dec2021.cmd.txt:****** Starting observation of PSR J1012+5307 *******	22:47
+./41_023/41_023_08Jan2022.cmd.txt:****** Starting observation of PSR J1012+5307 *******	22:00
+./41_023/41_023_17Jan2022.cmd.txt:****** Starting observation of PSR J1012+5307 *******	21:47
+./41_023/41_023_25Jan2022.cmd.txt:****** Starting observation of PSR J1012+5307 *******	20:47
+./41_023/41_023_05Feb2022.cmd.txt:****** Starting observation of PSR J1012+5307 *******	20:55
+./34_102_set1_13May2018.cmd.txt:**********  Phasing 7 and PSR J1022+1001  ***************16:55
+./35_016_set1_24Dec2018.cmd.txt:**********  Phasing 5 and PSR J1022+1001  *************** 01:44
+./34_102_set1_3Aug2018.cmd.txt:**********  Phasing 7 and PSR J1022+1001  *************** 11:55
+./35_016_set1_2Nov2018.cmd.txt:**********  Phasing 7 and PSR J1022+1001  *************** 06:50
+./34_102_set1_16Jul2018.cmd.txt:**********  Phasing 7 and PSR J1022+1001  *************** 12:55
+./34_102_set1_15Jun2018.cmd.txt:**********  Phasing 7 and PSR J1022+1001  ***************14:55
+./34_102_set1_17Aug2018.cmd.txt:**********  Phasing 5 and PSR J1022+1001  *************** 09:30
+./35_016_set1_18Mar2019.cmd.txt:**********  Phasing 5 and PSR J1022+1001  *************** 19:29
+./34_102_set1_27apr18.cmd.txt:**********  Phasing 6 and  PSR J1022+1001  ***************17:55
+./35_016_set1_7Jan2019.cmd.txt:**********  Phasing 5 and PSR J1022+1001  *************** 00:44
+./40_012/40_012_21May2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	15:37
+./40_012/40_012_30May2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	13:52
+./40_012/40_012_20June2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	13:53
+./40_012/40_012_02July2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	13:43
+./40_012/40_012_11Jul2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	12:43
+./40_012/40_012_23Jul2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	13:53
+./40_012/40_012_01Aug2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	11:30
+./40_012/40_012_09Aug2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	10:53
+./40_012/40_012_27Sep2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	06:43
+./40_012/40_012_20Aug2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	09:38
+./40_012/40_012_30Aug2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	09:49
+./40_012/40_012_10Sep2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	08:57
+./40_012/40_012_18sep2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	07:31
+./40_012/40_012_05Oct2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	06:57
+./35_016_set1_18Feb2019.cmd.txt:**********  Phasing 5 and PSR J1022+1001  *************** 23:44  
+./35_016_set1_4Mar2019.cmd.txt:**********  Phasing 5 and PSR J1022+1001  *************** 20:30
+./35_016_set1_14Nov2018.cmd.txt:**********  Phasing 7 and PSR J1022+1001  *************** 04:50
+./35_016_set1_11Dec2018.cmd.txt:**********  Phasing 5 and PSR J1022+1001  *************** 02:46
+./35_016_set1_21Jan2019.cmd.txt:**********  Phasing 5 and PSR J1022+1001  *************** 23:44
+./34_102_set1_2Sep2018.cmd.txt:**********  Phasing 7 and PSR J1022+1001  *************** 09:55
+./34_102_set1_30Jun2018.cmd.txt:**********  Phasing 7 and PSR J1022+1001  *************** 13:55
+./34_102_set1_17Sep2018.cmd.txt:**********  Phasing 7 and PSR J1022+1001  *************** 08:55
+./35_016_set1_20Oct2018.cmd.txt:**********  Phasing 7 and PSR J1022+1001  *************** 07:00
+./34_102_set1_28may2018.cmd.txt:**********  Phasing 7 and PSR J1022+1001  ***************15:55
+./41_023/41_023_29Oct2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	06:30
+./41_023/41_023_10Nov2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	04:47
+./41_023/41_023_21Nov2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	04:47
+./41_023/41_023_27Nov2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	02:48
+./41_023/41_023_08Dec2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	03:47
+./41_023/41_023_17Dec2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	00:28
+./41_023/41_023_27Dec2021.cmd.txt:****** Starting observation of PSR J1022+1001 *******	23:28
+./41_023/41_023_08Jan2022.cmd.txt:****** Starting observation of PSR J1022+1001 *******	22:40
+./41_023/41_023_17Jan2022.cmd.txt:****** Starting observation of PSR J1022+1001 *******	22:23
+./41_023/41_023_25Jan2022.cmd.txt:****** Starting observation of PSR J1022+1001 *******	21:28
+./41_023/41_023_05Feb2022.cmd.txt:****** Starting observation of PSR J1022+1001 *******	21:28
+./34_102_set1_13May2018.cmd.txt:**********  Phasing 8 and PSR J1024-0719  ***************17:35
+./35_016_set1_24Dec2018.cmd.txt:**********  Phasing 6 and PSR J1024-0719  *************** 02:32
+./34_102_set1_3Aug2018.cmd.txt:**********  Phasing 8 and PSR J1024-0719  *************** 12:30
+./35_016_set1_2Nov2018.cmd.txt:**********  Phasing 8 and PSR J1024-0719  *************** 07:20
+./34_102_set1_16Jul2018.cmd.txt:**********  Phasing 8 and PSR J1024-0719  *************** 13:30
+./34_102_set1_15Jun2018.cmd.txt:**********  Phasing 8 and PSR J1024-0719  ***************15:35
+./34_102_set1_17Aug2018.cmd.txt:**********  Phasing 6 and PSR J1024-0719  *************** 10:00
+./35_016_set1_18Mar2019.cmd.txt:**********  Phasing 6 and PSR J1024-0719  *************** 20:17
+./34_102_set1_27apr18.cmd.txt:**********  Phasing 7 and  PSR  J1024-0719 ***************18:30
+./35_016_set1_7Jan2019.cmd.txt:**********  Phasing 6 and PSR J1024-0719  *************** 01:32
+./35_016_set1_18Feb2019.cmd.txt:**********  Phasing 6 and PSR J1024-0719  *************** 00:32  
+./35_016_set1_4Mar2019.cmd.txt:**********  Phasing 6 and PSR J1024-0719  *************** 21:00  
+./35_016_set1_14Nov2018.cmd.txt:**********  Phasing 8 and PSR J1024-0719  *************** 05:20
+./35_016_set1_11Dec2018.cmd.txt:**********  Phasing 6 and PSR J1024-0719  *************** 03:20
+./35_016_set1_21Jan2019.cmd.txt:**********  Phasing 6 and PSR J1024-0719  *************** 00:32
+./34_102_set1_2Sep2018.cmd.txt:**********  Phasing 8 and PSR J1024-0719  *************** 10:30
+./34_102_set1_30Jun2018.cmd.txt:**********  Phasing 8 and PSR J1024-0719  *************** 14:30
+./34_102_set1_17Sep2018.cmd.txt:**********  Phasing 8 and PSR J1024-0719  *************** 09:30
+./35_016_set1_20Oct2018.cmd.txt:**********  Phasing 8 and PSR J1024-0719  *************** 07:30
+./34_102_set1_28may2018.cmd.txt:**********  Phasing 8 and PSR J1024-0719  ***************16:35
+./34_102_set2_22Jun2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 
+./35_016_set2_24Feb2019.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 03:52
+./34_102_set2_21May2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 21:50
+./34_102_set2_8Jul2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 18:05
+./34_102_set2_10Aug2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 16:05
+./34_102_set2_25Aug2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 15:05
+./35_016_set2_25Mar2019.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 01:22
+./35_016_set2_18Nov2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 09:52
+./35_016_set2_29Dec2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 06:52
+./34_102_set2_7Jun2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 20:05
+./34_102_set2_28Sep2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 18:05
+./35_016_set2_10Feb2019.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 03:52
+./35_016_set2_27Jan2019.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 04:52
+./35_016_set2_1Dec2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 08:52
+./34_102_set2_23Jul2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 17:05
+./35_016_set2_12Jan2019.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 04:52
+./23july18.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 17:05
+./35_016_set2_10Mar2019.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 02:50
+./35_016_set2_22Oct2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 13:05
+./35_016_set2_9Nov2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 11:00
+./34_102_set2_10Sep2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 14:05
+./35_016_set2_15Dec2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 07:40
+./34_102_set2_3May2018.cmd.txt:**********  Phasing 1 and PSR  J1455-3330  *************** 22:30
+./35_016/35_016_set2_22oct2018.cmd.txt:**********  Phasing 2 and PSR  J1455-3330  *************** 13:05
+./34_102_set2_22Jun2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************20:40
+./35_016_set2_24Feb2019.cmd.txt:**********  Phasing 4 and PSR  J1600-3053 ***************05:05
+./34_102_set2_21May2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************22:25
+./34_102_set2_8Jul2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************18:40
+./34_102_set2_10Aug2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************16:40
+./34_102_set2_25Aug2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************15:40
+./35_016_set2_25Mar2019.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************01:57
+./35_016_set2_18Nov2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************10:29
+./35_016_set2_29Dec2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************07:27
+./34_102_set2_7Jun2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************20:40
+./34_102_set2_28Sep2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************18:40
+./35_016_set2_10Feb2019.cmd.txt:**********  Phasing 4 and PSR  J1600-3053 ***************05:05
+./40_012/40_012_26May2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	00:55
+./40_012/40_012_15May2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	00:55
+./40_012/40_012_05Jun2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	21:01
+./40_012/40_012_15June2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	21:01
+./40_012/40_012_26Jun2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	19:00
+./40_012/40_012_08Jul2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	21:00
+./40_012/40_012_12Sep2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	14:01
+./40_012/40_012_18Jul2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	18:01
+./40_012/40_012_30Jul2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	17:59
+./40_012/40_012_15Aug2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	16:50
+./40_012/40_012_23Aug2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	15:52
+./40_012/40_012_03Sep2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	15:52
+./40_012/40_012_24Sep2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	15:52
+./40_012/40_012_02Oct2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	14:01
+./40_012/40_012_09Oct2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	13:01
+./35_016_set2_27Jan2019.cmd.txt:**********  Phasing 4 and PSR  J1600-3053 ***************06:05
+./35_016_set2_1Dec2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************09:29
+./34_102_set2_23Jul2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************17:40
+./35_016_set2_12Jan2019.cmd.txt:**********  Phasing 4 and PSR  J1600-3053 ***************06:05
+./23july18.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************17:40
+./35_016_set2_10Mar2019.cmd.txt:**********  Phasing 4 and PSR  J1600-3053 ***************04:00
+./35_016_set2_22Oct2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************13:35
+./35_016_set2_9Nov2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************11:30
+./34_102_set2_10Sep2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************14:40
+./35_016_set2_15Dec2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************08:13
+./34_102_set2_3May2018.cmd.txt:**********  Phasing 2 and PSR  J1600-3053 ***************23:00
+./41_023/41_023_02Nov2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	10:57
+./41_023/41_023_13Nov2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	10:59
+./41_023/41_023_22Nov2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	12:58
+./41_023/41_023_03Dec2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	09:58
+./41_023/41_023_12Dec2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	09:59
+./41_023/41_023_21Dec2021.cmd.txt:****** Starting observation of PSR J1600-3053 *******	07:59
+./41_023/41_023_01Jan2022.cmd.txt:****** Starting observation of PSR J1600-3053 *******	09:26
+./41_023/41_023_11Jan2022.cmd.txt:****** Starting observation of PSR J1600-3053 *******	08:59
+./41_023/41_023_21Jan2022.cmd.txt:****** Starting observation of PSR J1600-3053 *******	05:59
+./41_023/41_023_31Jan2022.cmd.txt:****** Starting observation of PSR J1600-3053 *******	04:59
+./41_023/41_023_11Feb2022.cmd.txt:****** Starting observation of PSR J1600-3053 *******	03:59
+./41_023/41_023_20Feb2022.cmd.txt:****** Starting observation of PSR J1600-3053 *******	07:25
+./35_016/35_016_set2_22oct2018.cmd.txt:**********  Phasing 3 and PSR  J1600-3053 ***************13:35
+./34_102_set2_22Jun2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 ***************21:10
+./35_016_set2_24Feb2019.cmd.txt:**********  Phasing 5 and PSR  J1614-2230 *************** 05:40
+./34_102_set2_21May2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 ***************22:55
+./34_102_set2_8Jul2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 ***************19:10
+./34_102_set2_10Aug2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 ***************17:10
+./34_102_set2_25Aug2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 ***************16:10
+./35_016_set2_25Mar2019.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 *************** 02:29
+./35_016_set2_18Nov2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 *************** 11:03
+./35_016_set2_29Dec2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 *************** 07:59
+./34_102_set2_7Jun2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 ***************21:10
+./34_102_set2_28Sep2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 ***************19:10
+./35_016_set2_10Feb2019.cmd.txt:**********  Phasing 5 and PSR  J1614-2230 *************** 05:40
+./35_016_set2_27Jan2019.cmd.txt:**********  Phasing 5 and PSR  J1614-2230 *************** 06:40
+./35_016_set2_1Dec2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 *************** 10:03
+./34_102_set2_23Jul2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 ***************18:10
+./35_016_set2_12Jan2019.cmd.txt:**********  Phasing 5 and PSR  J1614-2230 *************** 06:40
+./23july18.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 ***************18:10
+./35_016_set2_10Mar2019.cmd.txt:**********  Phasing 5 and PSR  J1614-2230 *************** 04:35
+./35_016_set2_22Oct2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 ***************14:10
+./35_016_set2_9Nov2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 ***************12:05
+./34_102_set2_10Sep2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 ***************15:10
+./35_016_set2_15Dec2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 *************** 08:42
+./34_102_set2_3May2018.cmd.txt:**********  Phasing 3 and PSR  J1614-2230 ***************23:30
+./35_016/35_016_set2_22oct2018.cmd.txt:**********  Phasing 4 and PSR  J1614-2230 ***************14:10
+./34_102_set2_22Jun2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 ***************21:50
+./35_016_set2_24Feb2019.cmd.txt:**********  Phasing 3 and PSR  J1640+2224 *************** 04:29
+./34_102_set2_21May2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 ***************23:35
+./34_102_set2_8Jul2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 ***************19:50
+./34_102_set2_10Aug2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 ***************17:50
+./34_102_set2_25Aug2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 ***************16:50
+./35_016_set2_25Mar2019.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 *************** 03:17
+./35_016_set2_18Nov2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 *************** 11:53
+./35_016_set2_29Dec2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 *************** 08:47
+./34_102_set2_7Jun2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 ***************21:50
+./34_102_set2_28Sep2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 ***************19:50
+./35_016_set2_10Feb2019.cmd.txt:**********  Phasing 3 and PSR  J1640+2224 *************** 04:29
+./35_016_set2_27Jan2019.cmd.txt:**********  Phasing 3 and PSR  J1640+2224 *************** 05:29
+./35_016_set2_1Dec2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 *************** 10:53
+./34_102_set2_23Jul2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 ***************18:50
+./35_016_set2_12Jan2019.cmd.txt:**********  Phasing 3 and PSR  J1640+2224 *************** 05:29
+./23july18.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 ***************18:50
+./35_016_set2_10Mar2019.cmd.txt:**********  Phasing 3 and PSR  J1640+2224 *************** 03:25
+./35_016_set2_22Oct2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 ***************15:00
+./35_016_set2_9Nov2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 ***************13:00
+./34_102_set2_10Sep2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 ***************15:50
+./35_016_set2_15Dec2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 *************** 09:25
+./34_102_set2_3May2018.cmd.txt:**********  Phasing 4 and PSR  J1640+2224 ***************00:00
+./35_016/35_016_set2_22oct2018.cmd.txt:**********  Phasing 5 and PSR  J1640+2224 ***************15:00
+./34_102_set2_22Jun2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************22:20
+./35_016_set2_24Feb2019.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************06:30
+./34_102_set2_21May2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************00:05
+./34_102_set2_8Jul2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************20:20
+./34_102_set2_10Aug2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************18:20
+./34_102_set2_25Aug2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************17:20
+./35_016_set2_25Mar2019.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************03:52
+./35_016_set2_18Nov2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************12:30
+./35_016_set2_29Dec2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************09:22
+./34_102_set2_7Jun2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************22:20
+./34_102_set2_28Sep2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************20:20
+./35_016_set2_10Feb2019.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************06:30
+./40_012/40_012_26May2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	01:56
+./40_012/40_012_15May2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	01:56
+./40_012/40_012_05Jun2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	21:57
+./40_012/40_012_15June2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	21:57
+./40_012/40_012_26Jun2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	19:55
+./40_012/40_012_08Jul2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	21:55
+./40_012/40_012_12Sep2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	14:57
+./40_012/40_012_18Jul2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	18:57
+./40_012/40_012_30Jul2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	18:58
+./40_012/40_012_15Aug2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	16:00
+./40_012/40_012_23Aug2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	15:01
+./40_012/40_012_03Sep2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	15:01
+./40_012/40_012_24Sep2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	15:01
+./40_012/40_012_02Oct2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	14:57
+./40_012/40_012_09Oct2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	13:57
+./35_016_set2_27Jan2019.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************07:30
+./35_016_set2_1Dec2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************11:30
+./34_102_set2_23Jul2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************19:20
+./35_016_set2_12Jan2019.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************07:30
+./38_014/command_files/38_014_08Jun2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	23:05
+./38_014/command_files/38_014_11Oct2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	14:05
+./38_014/command_files/38_014_01June2020.cmd.txt:**********  Phasing 2 and PSR  J1643-1224 ***************03:05
+./38_014/command_files/38_014_24May2020.cmd.txt:**********  Phasing 3 and PSR  J1643-1224 ***************03:10
+./38_014/command_files/38_014_16Jun2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	01:30 - 01:50
+./38_014/command_files/38_014_21Aug2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	18:05
+./38_014/command_files/38_014_21Sep2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	16:10
+./38_014/command_files/38_014_08Sep2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	18:40
+./38_014/command_files/38_014_02Jul2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	01:10
+./38_014/command_files/38_014_01Sep2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	20:05
+./38_014/command_files/38_014_14Sep2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	20:05
+./38_014/command_files/38_014_22Jun2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	23:30
+./38_014/command_files/38_014_14Aug2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	18:05
+./38_014/command_files/38_014_01Aug2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	18:40
+./38_014/command_files/38_014_08Jul2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	00:45
+./38_014/command_files/38_014_14Jul2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	22:30
+./23july18.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************19:20
+./35_016_set2_10Mar2019.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************05:10
+./35_016_set2_22Oct2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************15:45
+./37_010/command_files/37_010_07Dec2019.cmd.txt:**********  Phasing 2 and PSR  J1643-1224 ***************09:00
+./37_010/command_files/37_010_17Nov2019.cmd.txt:**********  Phasing 2 and PSR  J1643-1224 ***************13:00   12:40
+./37_010/command_files/37_010_05Nov2019.cmd.txt:**********  Phasing 2 and PSR  J1643-1224 ***************13:00
+./37_010/command_files/37_010_24Feb2020.cmd.txt:**********  Phasing 2 and PSR  J1643-1224 ***************04:00   
+./37_010/command_files/37_010_16Dec2019.cmd.txt:**********  Phasing 3 and PSR  J1643-1224 *************** 08:30
+./37_010/command_files/37_010_26Jan2020.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************09:30   
+./37_010/command_files/37_010_03Feb2020.cmd.txt:**********  Phasing 3 and PSR  J1643-1224 *************** 8:30
+./37_010/command_files/37_010_26Nov2019.cmd.txt:**********  Phasing 2 and PSR  J1643-1224 ***************13:00   
+./37_010/command_files/37_010_25Oct2019.cmd.txt:**********  Phasing 2 and PSR  J1643-1224 ***************13:00
+./37_010/command_files/37_010_22May2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	3:20
+./37_010/command_files/37_010_27Dec2019.cmd.txt:**********  Phasing 3 and PSR  J1643-1224 *************** 08:45 08:50
+./37_010/command_files/37_010_20Dec2019.cmd.txt:**********  Phasing 2 and PSR  J1643-1224 *************** 10:30
+./37_010/command_files/37_010_14Feb2020.cmd.txt:**********  Phasing 2 and PSR  J1643-1224 ***************05:00   
+./37_010/command_files/37_010_6JAN2020.cmd.txt:**********  Phasing 3 and PSR  J1643-1224 *************** 07:45 07:50
+./37_010/command_files/37_010_14Mar2020.cmd.txt:**********  Phasing 3 and PSR J1643-1224  ***************06:30 
+./37_010/command_files/37_010_17Jan2020.cmd.txt:**********  Phasing 2 and PSR  J1643-1224 ***************08:00   
+./37_010/command_files/37_010_06Mar2020.cmd.txt:**********  Phasing 3 and PSR J1643-1224  ***************06:30 
+./39_013/39_013_03Nov2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	14:55
+./39_013/39_013_22Nov2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	12:05
+./39_013/39_013_13Dec2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	12:55
+./39_013/39_013_04Dec2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	12:55
+./39_013/39_013_25Dec2020.cmd.txt:****** Starting observation of PSR J1643-1224 *******	12:55
+./39_013/39_013_03Jan2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	08:55
+./39_013/39_013_24Jan2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	10:55
+./39_013/39_013_16Jan2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	07:55
+./39_013/39_013_19Feb2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	05:55
+./39_013/39_013_07Feb2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	05:55
+./39_013/39_013_27Feb2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	04:55
+./39_013/39_013_08Mar2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	04:55
+./39_013/39_013_15Mar2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	03:55
+./39_013/39_013_28Mar2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	02:55
+./39_013/39_013_05Apr2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	03:55
+./35_016_set2_9Nov2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************13:40
+./34_102_set2_10Sep2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************16:20
+./35_016_set2_15Dec2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************09:57
+./34_102_set2_3May2018.cmd.txt:**********  Phasing 5 and PSR  J1643-1224 ***************00:30
+./41_023/41_023_02Nov2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	09:59
+./41_023/41_023_13Nov2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	09:57
+./41_023/41_023_22Nov2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	13:57
+./41_023/41_023_03Dec2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	08:59
+./41_023/41_023_12Dec2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	10:58
+./41_023/41_023_21Dec2021.cmd.txt:****** Starting observation of PSR J1643-1224 *******	08:58
+./41_023/41_023_01Jan2022.cmd.txt:****** Starting observation of PSR J1643-1224 *******	12:03
+./41_023/41_023_11Jan2022.cmd.txt:****** Starting observation of PSR J1643-1224 *******	10:57
+./41_023/41_023_21Jan2022.cmd.txt:****** Starting observation of PSR J1643-1224 *******	06:58
+./41_023/41_023_31Jan2022.cmd.txt:****** Starting observation of PSR J1643-1224 *******	06:57
+./41_023/41_023_11Feb2022.cmd.txt:****** Starting observation of PSR J1643-1224 *******	05:57
+./41_023/41_023_20Feb2022.cmd.txt:****** Starting observation of PSR J1643-1224 *******	03:59
+./35_016/35_016_set2_22oct2018.cmd.txt:**********  Phasing 6 and PSR  J1643-1224 ***************15:45
+./34_102_set2_22Jun2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************22:55
+./35_016_set2_24Feb2019.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************07:02
+./34_102_set2_21May2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************00:40
+./34_102_set2_8Jul2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************20:55
+./34_102_set2_10Aug2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************18:55
+./34_102_set2_25Aug2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************17:55
+./35_016_set2_25Mar2019.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************04:24
+./35_016_set2_18Nov2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************13:04
+./35_016_set2_29Dec2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************09:54
+./34_102_set2_7Jun2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************22:55
+./34_102_set2_28Sep2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************20:55
+./35_016_set2_10Feb2019.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************07:04
+./40_012/40_012_26May2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	02:57
+./40_012/40_012_15May2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	02:52
+./40_012/40_012_05Jun2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	22:53
+./40_012/40_012_15June2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	22:53
+./40_012/40_012_26Jun2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	20:50
+./40_012/40_012_08Jul2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	22:50
+./40_012/40_012_12Sep2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	15:48
+./40_012/40_012_18Jul2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	19:53
+./40_012/40_012_30Jul2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	19:47
+./40_012/40_012_15Aug2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	17:40
+./40_012/40_012_23Aug2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	16:48
+./40_012/40_012_03Sep2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	16:48
+./40_012/40_012_24Sep2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	16:48
+./40_012/40_012_02Oct2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	15:48
+./40_012/40_012_09Oct2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	14:48
+./35_016_set2_27Jan2019.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************08:04
+./35_016_set2_1Dec2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************12:04
+./34_102_set2_23Jul2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************19:55
+./DDTC186/ddtC186_02Jun2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	21:56
+./DDTC186/ddtC186_19Jun2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	19:30
+./DDTC186/ddtC186_09Jun2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	21:50
+./DDTC186/ddtC186_17Jun2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	01:45
+./DDTC186/ddtC186_30Jun2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	02:30
+./DDTC186/ddtC186_07Jul2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	01:30
+./DDTC186/ddtC186_02Jul2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	02:30
+./DDTC186/ddtC186_25Jun2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	19:30
+./DDTC186/ddtC186_11Jul2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	18:30
+./DDTC186/ddtC186_14Jul2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	02:30
+./DDTC186/ddtC186_22Jul2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	20:45
+./DDTC186/ddtC186_25Jul2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	20:30
+./35_016_set2_12Jan2019.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************08:04
+./38_014/command_files/38_014_08Jun2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	00:05
+./38_014/command_files/38_014_11Oct2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	15:05
+./38_014/command_files/38_014_01June2020.cmd.txt:**********  Phasing 4 and PSR J1713+0747  ***************05:10
+./38_014/command_files/38_014_24May2020.cmd.txt:**********  Phasing 5 and PSR J1713+0747  ***************05:10
+./38_014/command_files/38_014_16Jun2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	02:30 - 02:50
+./38_014/command_files/38_014_21Aug2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	19:05
+./38_014/command_files/38_014_21Sep2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	15:00
+./38_014/command_files/38_014_08Sep2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	20:50
+./38_014/command_files/38_014_02Jul2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	03:05
+./38_014/command_files/38_014_01Sep2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	21:05
+./38_014/command_files/38_014_14Sep2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	21:05
+./38_014/command_files/38_014_22Jun2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	21:30
+./38_014/command_files/38_014_14Aug2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	19:05
+./38_014/command_files/38_014_01Aug2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	19:40
+./38_014/command_files/38_014_08Jul2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	02:50
+./38_014/command_files/38_014_14Jul2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	00:30
+./23july18.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************19:55
+./35_016_set2_10Mar2019.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************05:45
+./DDTC199/ddtC199_09Aug2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	23:30
+./DDTC199/ddtC199_16Aug2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	22:30
+./DDTC199/ddtC199_26Aug2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	18:45
+./DDTC199/ddtC199_09Sep2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	19:45
+./DDTC199/ddtC199_16Sep2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	19:45
+./DDTC199/ddtC199_25Sep2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	13:30
+./DDTC199/ddtC199_02Sep2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	20:45
+./DDTC199/ddtC199_04Oct2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	17:45
+./35_016_set2_22Oct2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************16:15
+./37_010/command_files/37_010_07Dec2019.cmd.txt:**********  Phasing 3 and PSR J1713+0747  ***************10:00
+./37_010/command_files/37_010_17Nov2019.cmd.txt:**********  Phasing 3 and PSR J1713+0747  ***************14:00 13:45
+./37_010/command_files/37_010_05Nov2019.cmd.txt:**********  Phasing 3 and PSR J1713+0747  ***************14:00
+./37_010/command_files/37_010_24Feb2020.cmd.txt:**********  Phasing 3 and PSR J1713+0747  ***************05:00 
+./37_010/command_files/37_010_16Dec2019.cmd.txt:**********  Phasing 2 and PSR J1713+0747  *************** 07:20
+./37_010/command_files/37_010_26Jan2020.cmd.txt:**********  Phasing 3 and PSR J1713+0747  ***************06:30 
+./37_010/command_files/37_010_03Feb2020.cmd.txt:**********  Phasing 2 and PSR J1713+0747  ***************07:30 
+./37_010/command_files/37_010_26Nov2019.cmd.txt:**********  Phasing 3 and PSR J1713+0747  ***************14:00 
+./37_010/command_files/37_010_25Oct2019.cmd.txt:**********  Phasing 3 and PSR J1713+0747  ***************14:00
+./37_010/command_files/37_010_22May2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	5:35
+./37_010/command_files/37_010_27Dec2019.cmd.txt:**********  Phasing 2 and PSR J1713+0747  *************** 07:45
+./37_010/command_files/37_010_14Feb2020.cmd.txt:**********  Phasing 3 and PSR J1713+0747  ***************06:00 
+./37_010/command_files/37_010_6JAN2020.cmd.txt:**********  Phasing 2 and PSR J1713+0747  *************** 06:45
+./37_010/command_files/37_010_14Mar2020.cmd.txt:**********  Phasing 2 and PSR  J1713+0747 ***************05:30   
+./37_010/command_files/37_010_17Jan2020.cmd.txt:**********  Phasing 3 and PSR J1713+0747  ***************09:00 
+./37_010/command_files/37_010_06Mar2020.cmd.txt:**********  Phasing 2 and PSR  J1713+0747 ***************05:30   
+./39_013/39_013_03Nov2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	15:55
+./39_013/39_013_22Nov2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	13:05
+./39_013/39_013_13Dec2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	13:55
+./39_013/39_013_04Dec2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	13:55
+./39_013/39_013_25Dec2020.cmd.txt:****** Starting observation of PSR J1713+0747 *******	13:55
+./39_013/39_013_03Jan2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	09:55
+./39_013/39_013_16Jan2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	08:55
+./39_013/39_013_19Feb2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	06:55
+./39_013/39_013_07Feb2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	06:55
+./39_013/39_013_27Feb2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	05:55
+./39_013/39_013_08Mar2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	05:55
+./39_013/39_013_15Mar2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	04:55
+./39_013/39_013_28Mar2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	03:55
+./39_013/39_013_05Apr2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	05:55
+./35_016_set2_9Nov2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************14:15
+./34_102_set2_10Sep2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************16:55
+./35_016_set2_15Dec2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************10:29
+./34_102_set2_3May2018.cmd.txt:**********  Phasing 6 and PSR J1713+0747  ***************01:00
+./41_023/41_023_02Nov2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	11:56
+./41_023/41_023_13Nov2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	12:58
+./41_023/41_023_22Nov2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	14:56
+./41_023/41_023_03Dec2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	10:57
+./41_023/41_023_12Dec2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	11:57
+./41_023/41_023_21Dec2021.cmd.txt:****** Starting observation of PSR J1713+0747 *******	09:57
+./41_023/41_023_01Jan2022.cmd.txt:****** Starting observation of PSR J1713+0747 *******	06:59
+./41_023/41_023_11Jan2022.cmd.txt:****** Starting observation of PSR J1713+0747 *******	09:58
+./41_023/41_023_21Jan2022.cmd.txt:****** Starting observation of PSR J1713+0747 *******	07:57
+./41_023/41_023_31Jan2022.cmd.txt:****** Starting observation of PSR J1713+0747 *******	05:58
+./41_023/41_023_11Feb2022.cmd.txt:****** Starting observation of PSR J1713+0747 *******	04:58
+./41_023/41_023_20Feb2022.cmd.txt:****** Starting observation of PSR J1713+0747 *******	04:58
+./35_016/35_016_set2_22oct2018.cmd.txt:**********  Phasing 7 and PSR J1713+0747  ***************16:15
+./34_102_set2_22Jun2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  ***************23:30
+./35_016_set2_24Feb2019.cmd.txt:**********  Phasing 8 and PSR J1730-2304  *************** 07:37
+./34_102_set2_21May2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  ***************01:15
+./34_102_set2_8Jul2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  ***************21:30
+./34_102_set2_10Aug2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  ***************19:30
+./34_102_set2_25Aug2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  ***************18:30
+./35_016_set2_25Mar2019.cmd.txt:**********  Phasing 8 and PSR J1730-2304  *************** 4:57
+./35_016_set2_18Nov2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  *************** 13:39
+./35_016_set2_29Dec2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  *************** 10:27
+./34_102_set2_7Jun2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  ***************23:30
+./34_102_set2_28Sep2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  ***************21:30
+./35_016_set2_10Feb2019.cmd.txt:**********  Phasing 8 and PSR J1730-2304  *************** 07:39
+./35_016_set2_27Jan2019.cmd.txt:**********  Phasing 8 and PSR J1730-2304  *************** 08:39
+./35_016_set2_1Dec2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  *************** 12:39
+./34_102_set2_23Jul2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  ***************20:30
+./35_016_set2_12Jan2019.cmd.txt:**********  Phasing 8 and PSR J1730-2304  *************** 08:39
+./23july18.cmd.txt:**********  Phasing 8 and PSR J1730-2304  ***************20:30
+./35_016_set2_10Mar2019.cmd.txt:**********  Phasing 8 and PSR J1730-2304  *************** 06:20
+./35_016_set2_22Oct2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  ***************16:45
+./35_016_set2_9Nov2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  ***************14:50
+./34_102_set2_10Sep2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  ***************17:30
+./35_016_set2_15Dec2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  *************** 11:02
+./34_102_set2_3May2018.cmd.txt:**********  Phasing 7 and PSR J1730-2304  ***************01:30
+./35_016/35_016_set2_22oct2018.cmd.txt:**********  Phasing 8 and PSR J1730-2304  ***************16:45
+./34_102_set2_22Jun2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  ***************00:05
+./35_016_set2_24Feb2019.cmd.txt:**********  Phasing 9 and PSR J1738+0333  *************** 08:10
+./34_102_set2_21May2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  ***************01:50
+./34_102_set2_8Jul2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  ***************22:05
+./34_102_set2_10Aug2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  ***************20:05
+./34_102_set2_25Aug2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  ***************19:05
+./35_016_set2_25Mar2019.cmd.txt:**********  Phasing 9 and PSR J1738+0333  *************** 5:28
+./35_016_set2_18Nov2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  *************** 14:12
+./35_016_set2_29Dec2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  *************** 10:58
+./34_102_set2_7Jun2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  ***************00:05
+./34_102_set2_28Sep2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  ***************22:05
+./35_016_set2_10Feb2019.cmd.txt:**********  Phasing 9 and PSR J1738+0333  *************** 08:12
+./35_016_set2_27Jan2019.cmd.txt:**********  Phasing 9 and PSR J1738+0333  *************** 09:12
+./35_016_set2_1Dec2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  *************** 13:12
+./34_102_set2_23Jul2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  ***************21:05
+./35_016_set2_12Jan2019.cmd.txt:**********  Phasing 9 and PSR J1738+0333  *************** 09:12
+./23july18.cmd.txt:**********  Phasing 9 and PSR J1738+0333  ***************21:05
+./35_016_set2_10Mar2019.cmd.txt:**********  Phasing 9 and PSR J1738+0333  *************** 06:55
+./35_016_set2_22Oct2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  ***************17:15
+./35_016_set2_9Nov2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  ***************15:25
+./34_102_set2_10Sep2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  ***************18:05
+./35_016_set2_15Dec2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  *************** 11:34
+./34_102_set2_3May2018.cmd.txt:**********  Phasing 8 and PSR J1738+0333  ***************02:00
+./35_016/35_016_set2_22oct2018.cmd.txt:**********  Phasing 9 and PSR J1738+0333  ***************17:15
+./40_012/40_012_26May2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	03:58
+./40_012/40_012_15May2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	03:53
+./40_012/40_012_05Jun2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	23:54
+./40_012/40_012_15June2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	23:54
+./40_012/40_012_26Jun2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	21:50
+./40_012/40_012_08Jul2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	23:50
+./40_012/40_012_12Sep2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	16:49
+./40_012/40_012_18Jul2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	20:54
+./40_012/40_012_30Jul2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	20:46
+./40_012/40_012_15Aug2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	18:30
+./40_012/40_012_23Aug2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	17:49
+./40_012/40_012_03Sep2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	17:49
+./40_012/40_012_11sep2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	16:01
+./40_012/40_012_24Sep2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	17:49
+./40_012/40_012_02Oct2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	16:49
+./40_012/40_012_09Oct2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	15:49
+./41_023/41_023_02Nov2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	12:54
+./41_023/41_023_13Nov2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	12:01
+./41_023/41_023_22Nov2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	11:59
+./41_023/41_023_03Dec2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	11:56
+./41_023/41_023_12Dec2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	12:56
+./41_023/41_023_21Dec2021.cmd.txt:****** Starting observation of PSR J1744-1134 *******	10:56
+./41_023/41_023_01Jan2022.cmd.txt:****** Starting observation of PSR J1744-1134 *******	07:58
+./41_023/41_023_11Jan2022.cmd.txt:****** Starting observation of PSR J1744-1134 *******	11:56
+./41_023/41_023_21Jan2022.cmd.txt:****** Starting observation of PSR J1744-1134 *******	08:56
+./41_023/41_023_31Jan2022.cmd.txt:****** Starting observation of PSR J1744-1134 *******	07:56
+./41_023/41_023_11Feb2022.cmd.txt:****** Starting observation of PSR J1744-1134 *******	06:56
+./41_023/41_023_20Feb2022.cmd.txt:****** Starting observation of PSR J1744-1134 *******	06:26
+./34_102_set2_22Jun2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  ***************00:40
+./35_016_set2_24Feb2019.cmd.txt:**********  Phasing 10 and PSR J1857+0943  *************** 08:50
+./34_102_set2_21May2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  ***************02:25
+./34_102_set2_8Jul2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  ***************22:40
+./34_102_set2_10Aug2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  ***************20:40
+./34_102_set2_25Aug2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  ***************19:40
+./35_016_set2_25Mar2019.cmd.txt:**********  Phasing 10 and PSR J1857+0943  *************** 6:06
+./35_016_set2_18Nov2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  *************** 14:52
+./35_016_set2_29Dec2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  *************** 11:36
+./34_102_set2_7Jun2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  ***************00:40
+./34_102_set2_28Sep2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  ***************22:40
+./35_016_set2_10Feb2019.cmd.txt:**********  Phasing 10 and PSR J1857+0943  *************** 08:52
+./40_012/40_012_26May2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	06:00
+./40_012/40_012_15May2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	05:50
+./40_012/40_012_05Jun2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	01:46
+./40_012/40_012_15June2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	01:46
+./40_012/40_012_26Jun2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	23:50
+./40_012/40_012_08Jul2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	01:50
+./40_012/40_012_12Sep2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	18:41
+./40_012/40_012_18Jul2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	22:46
+./40_012/40_012_30Jul2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	22:44
+./40_012/40_012_15Aug2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	19:20
+./40_012/40_012_23Aug2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	19:41
+./40_012/40_012_03Sep2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	19:41
+./40_012/40_012_11sep2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	17:02
+./40_012/40_012_24Sep2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	19:41
+./40_012/40_012_02Oct2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	18:41
+./40_012/40_012_09Oct2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	17:41
+./35_016_set2_27Jan2019.cmd.txt:**********  Phasing 10 and PSR J1857+0943  *************** 09:52
+./35_016_set2_1Dec2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  *************** 13:52
+./34_102_set2_23Jul2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  ***************21:40
+./35_016_set2_12Jan2019.cmd.txt:**********  Phasing 10 and PSR J1857+0943  *************** 09:52
+./23july18.cmd.txt:**********  Phasing 10 and PSR J1857+0943  ***************21:40
+./35_016_set2_10Mar2019.cmd.txt:**********  Phasing 10 and PSR J1857+0943  *************** 07:30
+./35_016_set2_22Oct2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  ***************18:00
+./37_010/command_files/37_010_07Dec2019.cmd.txt:**********  Phasing 5 and PSR J1857+0943  *************** 12:00
+./37_010/command_files/37_010_17Nov2019.cmd.txt:**********  Phasing 4 and PSR J1857+0943  *************** 15:00  14:45
+./37_010/command_files/37_010_05Nov2019.cmd.txt:**********  Phasing 4 and PSR J1857+0943  *************** 15:00
+./37_010/command_files/37_010_24Feb2020.cmd.txt:**********  Phasing 4 and PSR J1857+0943  *************** 06:00  
+./37_010/command_files/37_010_16Dec2019.cmd.txt:**********  Phasing 5 and PSR J1857+0943  *************** 10:30  
+./37_010/command_files/37_010_26Jan2020.cmd.txt:**********  Phasing 2 and PSR J1857+0943  *************** 05:30  
+./37_010/command_files/37_010_03Feb2020.cmd.txt:**********  Phasing 5 and PSR J1857+0943  *************** 10:30 
+./37_010/command_files/37_010_26Nov2019.cmd.txt:**********  Phasing 4 and PSR J1857+0943  *************** 15:00  
+./37_010/command_files/37_010_25Oct2019.cmd.txt:**********  Phasing 4 and PSR J1857+0943  *************** 15:00
+./37_010/command_files/37_010_22May2020.cmd.txt:****** Starting observation of PSR J1857+0943 *******	6:40
+./37_010/command_files/37_010_27Dec2019.cmd.txt:**********  Phasing 4 and PSR J1857+0943  *************** 09:45 09:50  
+./37_010/command_files/37_010_14Feb2020.cmd.txt:**********  Phasing 4 and PSR J1857+0943  *************** 07:00  
+./37_010/command_files/37_010_6JAN2020.cmd.txt:**********  Phasing 4 and PSR J1857+0943  *************** 08:45 08:50  
+./37_010/command_files/37_010_14Mar2020.cmd.txt:**********  Phasing 5 and PSR J1857+0943  *************** 08:30  
+./37_010/command_files/37_010_17Jan2020.cmd.txt:**********  Phasing 4 and PSR J1857+0943  *************** 10:00  
+./37_010/command_files/37_010_06Mar2020.cmd.txt:**********  Phasing 5 and PSR J1857+0943  *************** 08:30  
+./35_016_set2_9Nov2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  ***************16:15
+./34_102_set2_10Sep2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  ***************18:40
+./35_016_set2_15Dec2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  *************** 12:14
+./34_102_set2_3May2018.cmd.txt:**********  Phasing 9 and PSR J1857+0943  ***************02:30
+./41_023/41_023_02Nov2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	14:51
+./41_023/41_023_13Nov2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	14:52
+./41_023/41_023_22Nov2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	18:52
+./41_023/41_023_03Dec2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	12:55
+./41_023/41_023_12Dec2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	14:54
+./41_023/41_023_21Dec2021.cmd.txt:****** Starting observation of PSR J1857+0943 *******	12:54
+./41_023/41_023_01Jan2022.cmd.txt:****** Starting observation of PSR J1857+0943 *******	10:25
+./41_023/41_023_11Jan2022.cmd.txt:****** Starting observation of PSR J1857+0943 *******	13:54
+./41_023/41_023_21Jan2022.cmd.txt:****** Starting observation of PSR J1857+0943 *******	10:54
+./41_023/41_023_31Jan2022.cmd.txt:****** Starting observation of PSR J1857+0943 *******	09:54
+./41_023/41_023_11Feb2022.cmd.txt:****** Starting observation of PSR J1857+0943 *******	08:54
+./41_023/41_023_20Feb2022.cmd.txt:****** Starting observation of PSR J1857+0943 *******	10:22
+./35_016/35_016_set2_22oct2018.cmd.txt:**********  Phasing 10 and PSR J1857+0943  ***************18:00
+./34_102_set2_22Jun2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  ***************01:20
+./35_016_set2_24Feb2019.cmd.txt:**********  Phasing 11 and PSR J1909-3744  *************** 09:23
+./34_102_set2_21May2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  ***************03:05
+./34_102_set2_8Jul2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  ***************23:20
+./34_102_set2_10Aug2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  ***************21:20
+./34_102_set2_25Aug2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  ***************20:20
+./35_016_set2_25Mar2019.cmd.txt:**********  Phasing 11 and PSR J1909-3744  *************** 6:39
+./35_016_set2_18Nov2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  *************** 15:27
+./35_016_set2_29Dec2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  *************** 12:09
+./34_102_set2_7Jun2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  ***************01:20
+./34_102_set2_28Sep2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  ***************23:20
+./35_016_set2_10Feb2019.cmd.txt:**********  Phasing 11 and PSR J1909-3744  *************** 09:27
+./40_012/40_012_26May2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	04:59
+./40_012/40_012_15May2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	04:49
+./40_012/40_012_05Jun2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	00:50
+./40_012/40_012_15June2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	00:50
+./40_012/40_012_26Jun2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	22:50
+./40_012/40_012_08Jul2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	00:50
+./40_012/40_012_12Sep2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	17:45
+./40_012/40_012_18Jul2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	21:50
+./40_012/40_012_30Jul2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	21:45
+./40_012/40_012_15Aug2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	21:10
+./40_012/40_012_23Aug2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	18:45
+./40_012/40_012_03Sep2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	18:45
+./40_012/40_012_11sep2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	18:49
+./40_012/40_012_24Sep2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	18:45
+./40_012/40_012_02Oct2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	17:45
+./40_012/40_012_09Oct2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	16:45
+./35_016_set2_27Jan2019.cmd.txt:**********  Phasing 11 and PSR J1909-3744  *************** 10:27
+./35_016_set2_1Dec2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  *************** 14:27
+./34_102_set2_23Jul2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  ***************22:20
+./35_016_set2_12Jan2019.cmd.txt:**********  Phasing 11 and PSR J1909-3744  *************** 10:27
+./38_014/command_files/38_014_08Jun2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	01:05
+./38_014/command_files/38_014_11Oct2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	16:05
+./38_014/command_files/38_014_01June2020.cmd.txt:**********  Phasing 3 and PSR J1909-3744  *************** 04:05  
+./38_014/command_files/38_014_24May2020.cmd.txt:**********  Phasing 2 and PSR J1909-3744  *************** 02:05  
+./38_014/command_files/38_014_16Jun2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	03:30 - 03:50
+./38_014/command_files/38_014_21Aug2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	21:05
+./38_014/command_files/38_014_21Sep2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	18:25
+./38_014/command_files/38_014_08Sep2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	21:55
+./38_014/command_files/38_014_02Jul2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	00:05
+./38_014/command_files/38_014_01Sep2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	23:00
+./38_014/command_files/38_014_14Sep2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	22:05
+./38_014/command_files/38_014_22Jun2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	01:30
+./38_014/command_files/38_014_14Aug2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	21:05
+./38_014/command_files/38_014_01Aug2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	22:40
+./38_014/command_files/38_014_08Jul2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	01:45
+./38_014/command_files/38_014_14Jul2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	01:30
+./23july18.cmd.txt:**********  Phasing 11 and PSR J1909-3744  ***************22:20
+./35_016_set2_10Mar2019.cmd.txt:**********  Phasing 11 and PSR J1909-3744  *************** 08:05
+./35_016_set2_22Oct2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  ***************18:30
+./39_013/39_013_03Nov2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	16:55
+./39_013/39_013_22Nov2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	14:05
+./39_013/39_013_13Dec2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	14:55
+./39_013/39_013_04Dec2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	14:55
+./39_013/39_013_25Dec2020.cmd.txt:****** Starting observation of PSR J1909-3744 *******	14:55
+./39_013/39_013_03Jan2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	10:55
+./39_013/39_013_24Jan2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	11:55
+./39_013/39_013_16Jan2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	09:55
+./39_013/39_013_19Feb2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	07:55
+./39_013/39_013_07Feb2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	07:55
+./39_013/39_013_27Feb2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	06:55
+./39_013/39_013_08Mar2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	07:55
+./39_013/39_013_15Mar2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	05:55
+./39_013/39_013_28Mar2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	05:55
+./39_013/39_013_05Apr2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	08:55
+./35_016_set2_9Nov2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  ***************16:45
+./34_102_set2_10Sep2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  ***************19:20
+./35_016_set2_15Dec2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  *************** 13:00
+./34_102_set2_3May2018.cmd.txt:**********  Phasing 10 and PSR J1909-3744  ***************03:00
+./41_023/41_023_02Nov2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	13:53
+./41_023/41_023_13Nov2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	13:55
+./41_023/41_023_22Nov2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	16:54
+./41_023/41_023_03Dec2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	15:32
+./41_023/41_023_12Dec2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	13:55
+./41_023/41_023_21Dec2021.cmd.txt:****** Starting observation of PSR J1909-3744 *******	11:55
+./41_023/41_023_01Jan2022.cmd.txt:****** Starting observation of PSR J1909-3744 *******	11:04
+./41_023/41_023_11Jan2022.cmd.txt:****** Starting observation of PSR J1909-3744 *******	12:55
+./41_023/41_023_21Jan2022.cmd.txt:****** Starting observation of PSR J1909-3744 *******	09:55
+./41_023/41_023_31Jan2022.cmd.txt:****** Starting observation of PSR J1909-3744 *******	08:55
+./41_023/41_023_11Feb2022.cmd.txt:****** Starting observation of PSR J1909-3744 *******	07:55
+./41_023/41_023_20Feb2022.cmd.txt:****** Starting observation of PSR J1909-3744 *******	09:23
+./35_016/35_016_set2_22oct2018.cmd.txt:**********  Phasing 11 and PSR J1909-3744  ***************18:30
+./34_102_set2_22Jun2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  ***************01:55
+./35_016_set2_24Feb2019.cmd.txt:**********  Phasing 12 and PSR J1939+2134  *************** 10:14
+./34_102_set2_21May2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  ***************03:40
+./34_102_set2_8Jul2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  ***************23:55
+./34_102_set2_10Aug2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  ***************21:55
+./34_102_set2_25Aug2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  ***************20:55
+./35_016_set2_25Mar2019.cmd.txt:**********  Phasing 12 and PSR J1939+2134  *************** 7:20
+./35_016_set2_18Nov2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  *************** 16:18
+./35_016_set2_29Dec2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  *************** 12:50
+./34_102_set2_7Jun2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  ***************01:55
+./34_102_set2_28Sep2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  ***************23:55
+./35_016_set2_10Feb2019.cmd.txt:**********  Phasing 12 and PSR J1939+2134  *************** 10:18
+./40_012/40_012_26May2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	06:41
+./40_012/40_012_15May2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	06:26
+./40_012/40_012_05Jun2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	02:27
+./40_012/40_012_15June2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	03:23
+./40_012/40_012_26Jun2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	00:25
+./40_012/40_012_08Jul2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	02:25
+./40_012/40_012_12Sep2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	19:22
+./40_012/40_012_18Jul2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	23:27
+./40_012/40_012_30Jul2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	23:23
+./40_012/40_012_15Aug2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	20:15
+./40_012/40_012_23Aug2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	20:22
+./40_012/40_012_03Sep2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	20:22
+./40_012/40_012_11sep2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	18:08
+./40_012/40_012_24Sep2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	20:22
+./40_012/40_012_02Oct2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	20:23
+./40_012/40_012_09Oct2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	20:24
+./35_016_set2_27Jan2019.cmd.txt:**********  Phasing 12 and PSR J1939+2134  *************** 11:18
+./35_016_set2_1Dec2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  *************** 15:18
+./34_102_set2_23Jul2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  ***************22:55
+./35_016_set2_12Jan2019.cmd.txt:**********  Phasing 12 and PSR J1939+2134  *************** 11:18
+./38_014/command_files/38_014_08Jun2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	02:05
+./38_014/command_files/38_014_11Oct2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	17:05
+./38_014/command_files/38_014_01June2020.cmd.txt:**********  Phasing 5 and PSR J1939+2134  *************** 06:10 
+./38_014/command_files/38_014_24May2020.cmd.txt:**********  Phasing 4 and PSR J1939+2134  *************** 04:10 
+./38_014/command_files/38_014_16Jun2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	04:30 - 04:50
+./38_014/command_files/38_014_21Aug2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	20:05
+./38_014/command_files/38_014_21Sep2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	17:20
+./38_014/command_files/38_014_08Sep2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	17:35
+./38_014/command_files/38_014_02Jul2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	02:10
+./38_014/command_files/38_014_01Sep2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	00:00
+./38_014/command_files/38_014_14Sep2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	23:05
+./38_014/command_files/38_014_22Jun2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	22:30
+./38_014/command_files/38_014_14Aug2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	20:05
+./38_014/command_files/38_014_01Aug2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	20:40
+./38_014/command_files/38_014_08Jul2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	03:50
+./38_014/command_files/38_014_14Jul2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	02:30
+./23july18.cmd.txt:**********  Phasing 12 and PSR J1939+2134  ***************22:55
+./35_016_set2_10Mar2019.cmd.txt:**********  Phasing 12 and PSR J1939+2134  *************** 08:40
+./35_016_set2_22Oct2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  ***************19:15
+./37_010/command_files/37_010_07Dec2019.cmd.txt:**********  Phasing 4 and PSR J1939+2134  *************** 11:00
+./37_010/command_files/37_010_17Nov2019.cmd.txt:**********  Phasing 5 and PSR J1939+2134  *************** 16:00   15:50
+./37_010/command_files/37_010_05Nov2019.cmd.txt:**********  Phasing 5 and PSR J1939+2134  *************** 16:00
+./37_010/command_files/37_010_24Feb2020.cmd.txt:**********  Phasing 5 and PSR J1939+2134  *************** 07:00   
+./37_010/command_files/37_010_16Dec2019.cmd.txt:**********  Phasing 4 and PSR J1939+2134  *************** 9:30
+./37_010/command_files/37_010_26Jan2020.cmd.txt:**********  Phasing 5 and PSR J1939+2134  *************** 08:30   
+./37_010/command_files/37_010_03Feb2020.cmd.txt:**********  Phasing 6 and PSR J1939+2134  *************** 11:30   
+./37_010/command_files/37_010_26Nov2019.cmd.txt:**********  Phasing 5 and PSR J1939+2134  *************** 16:00   
+./37_010/command_files/37_010_25Oct2019.cmd.txt:**********  Phasing 5 and PSR J1939+2134  *************** 16:00
+./37_010/command_files/37_010_22May2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	4:30
+./37_010/command_files/37_010_27Dec2019.cmd.txt:**********  Phasing 5 and PSR J1939+2134  *************** 10:50 10:55
+./37_010/command_files/37_010_14Feb2020.cmd.txt:**********  Phasing 5 and PSR J1939+2134  *************** 08:00   
+./37_010/command_files/37_010_6JAN2020.cmd.txt:**********  Phasing 5 and PSR J1939+2134  *************** 9:50 9:55
+./37_010/command_files/37_010_14Mar2020.cmd.txt:**********  Phasing 4 and PSR J1939+2134  *************** 07:30   
+./37_010/command_files/37_010_17Jan2020.cmd.txt:**********  Phasing 5 and PSR J1939+2134  *************** 11:00   
+./37_010/command_files/37_010_06Mar2020.cmd.txt:**********  Phasing 4 and PSR J1939+2134  *************** 07:30   
+./39_013/39_013_03Nov2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	17:55
+./39_013/39_013_22Nov2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	15:05
+./39_013/39_013_13Dec2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	15:55
+./39_013/39_013_04Dec2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	15:55
+./39_013/39_013_25Dec2020.cmd.txt:****** Starting observation of PSR J1939+2134 *******	16:55
+./39_013/39_013_03Jan2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	11:55
+./39_013/39_013_24Jan2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	12:55
+./39_013/39_013_16Jan2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	10:55
+./39_013/39_013_19Feb2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	08:55
+./39_013/39_013_07Feb2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	08:55
+./39_013/39_013_27Feb2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	07:55
+./39_013/39_013_08Mar2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	06:55
+./39_013/39_013_15Mar2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	06:55
+./39_013/39_013_28Mar2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	04:55
+./39_013/39_013_05Apr2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	04:55
+./35_016_set2_9Nov2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  ***************17:25
+./34_102_set2_10Sep2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  ***************19:55
+./35_016_set2_15Dec2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  *************** 13:39
+./34_102_set2_3May2018.cmd.txt:**********  Phasing 11 and PSR J1939+2134  ***************03:30
+./41_023/41_023_02Nov2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	16:29
+./41_023/41_023_13Nov2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	15:29
+./41_023/41_023_22Nov2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	19:31
+./41_023/41_023_03Dec2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	16:31
+./41_023/41_023_12Dec2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	15:33
+./41_023/41_023_21Dec2021.cmd.txt:****** Starting observation of PSR J1939+2134 *******	13:33
+./41_023/41_023_01Jan2022.cmd.txt:****** Starting observation of PSR J1939+2134 *******	08:57
+./41_023/41_023_11Jan2022.cmd.txt:****** Starting observation of PSR J1939+2134 *******	14:33
+./41_023/41_023_21Jan2022.cmd.txt:****** Starting observation of PSR J1939+2134 *******	11:33
+./41_023/41_023_31Jan2022.cmd.txt:****** Starting observation of PSR J1939+2134 *******	10:33
+./41_023/41_023_11Feb2022.cmd.txt:****** Starting observation of PSR J1939+2134 *******	09:33
+./41_023/41_023_20Feb2022.cmd.txt:****** Starting observation of PSR J1939+2134 *******	05:57
+./35_016/35_016_set2_22oct2018.cmd.txt:**********  Phasing 12 and PSR J1939+2134  ***************19:15
+./34_102_set2_22Jun2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  ***************02:20
+./35_016_set2_24Feb2019.cmd.txt:**********  Phasing 13 and  PSR J2124-3358  *************** 10:00
+./35_016_set2_8Jan2019_makeup.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  *************** 17:30 
+./34_102_set2_21May2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  ***************04:00
+./34_102_set2_8Jul2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  ***************00:20
+./34_102_set2_10Aug2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  ***************22:20
+./34_102_set2_25Aug2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  ***************21:20
+./35_016_set2_25Mar2019.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  *************** 7:48
+./35_016_set2_18Nov2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  *************** 16:48
+./35_016_set2_29Dec2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  *************** 13:18
+./34_102_set2_7Jun2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  ***************02:20
+./34_102_set2_28Sep2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  ***************00:20
+./35_016_set2_10Feb2019.cmd.txt:**********  Phasing 13 and  PSR J2124-3358  *************** 10:48
+./40_012/40_012_26May2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	07:17
+./40_012/40_012_15May2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	06:57
+./40_012/40_012_05Jun2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	03:03
+./40_012/40_012_15June2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	02:27
+./40_012/40_012_26Jun2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	01:05
+./40_012/40_012_08Jul2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	03:05
+./40_012/40_012_12Sep2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	19:58
+./40_012/40_012_18Jul2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	00:03
+./40_012/40_012_30Jul2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	23:52
+./40_012/40_012_15Aug2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	22:05
+./40_012/40_012_23Aug2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	20:58
+./40_012/40_012_03Sep2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	20:58
+./40_012/40_012_11sep2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	20:06
+./40_012/40_012_24Sep2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	20:58
+./40_012/40_012_02Oct2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	19:22
+./40_012/40_012_09Oct2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	18:22
+./35_016_set2_27Jan2019.cmd.txt:**********  Phasing 13 and  PSR J2124-3358  *************** 11:48
+./35_016_set2_1Dec2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  *************** 15:48
+./34_102_set2_23Jul2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  ***************23:20
+./35_016_set2_12Jan2019.cmd.txt:**********  Phasing 13 and  PSR J2124-3358  *************** 11:48
+./23july18.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  ***************23:20
+./37_013/37_013_13Mar2020.cmd.txt:**********  Phasing 3 and PSR  J2124-3358 ***************08:50
+./37_013/37_013_09Mar2020.cmd.txt:**********  Phasing 3 and PSR  J2124-3358 ***************09:50
+./37_013/37_013_03Mar2020.cmd.txt:**********  Phasing 3 and PSR  J2124-3358 ***************08:50
+./37_013/37_013_09Nov2019.cmd.txt:**********  Phasing 3 and PSR  J2124-3358 ***************15:50
+./37_013/37_013_17Feb2020.cmd.txt:**********  Phasing 3 and PSR  J2124-3358 ***************09:50
+./35_016_set2_10Mar2019.cmd.txt:**********  Phasing 13 and  PSR J2124-3358  *************** 09:00
+./35_016_set2_22Oct2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  ***************19:35
+./39_013/39_013_03Nov2020.cmd.txt:****** Starting observation of PSR J2124-3358 *******	19:55
+./39_013/39_013_22Nov2020.cmd.txt:****** Starting observation of PSR J2124-3358 *******	17:05
+./39_013/39_013_13Dec2020.cmd.txt:****** Starting observation of PSR J2124-3358 *******	17:55
+./39_013/39_013_04Dec2020.cmd.txt:****** Starting observation of PSR J2124-3358 *******	17:55
+./39_013/39_013_25Dec2020.cmd.txt:****** Starting observation of PSR J2124-3358 *******	15:55
+./39_013/39_013_03Jan2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	13:55
+./39_013/39_013_24Jan2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	14:55
+./39_013/39_013_16Jan2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	12:55
+./39_013/39_013_19Feb2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	10:55
+./39_013/39_013_07Feb2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	10:55
+./39_013/39_013_27Feb2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	09:55
+./39_013/39_013_05Mar2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	12:55
+./39_013/39_013_08Mar2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	09:55
+./39_013/39_013_15Mar2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	08:55
+./39_013/39_013_28Mar2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	07:55
+./39_013/39_013_05Apr2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	07:55
+./35_016_set2_9Nov2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  ***************17:55
+./34_102_set2_10Sep2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  ***************20:20
+./35_016_set2_15Dec2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  *************** 14:21
+./34_102_set2_3May2018.cmd.txt:**********  Phasing 12 and  PSR J2124-3358  ***************04:00
+./41_023/41_023_02Nov2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	15:30
+./41_023/41_023_13Nov2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	15:56
+./41_023/41_023_22Nov2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	17:53
+./41_023/41_023_03Dec2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	14:33
+./41_023/41_023_12Dec2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	16:02
+./41_023/41_023_21Dec2021.cmd.txt:****** Starting observation of PSR J2124-3358 *******	14:02
+./41_023/41_023_01Jan2022.cmd.txt:****** Starting observation of PSR J2124-3358 *******	13:02
+./41_023/41_023_11Jan2022.cmd.txt:****** Starting observation of PSR J2124-3358 *******	15:02
+./41_023/41_023_21Jan2022.cmd.txt:****** Starting observation of PSR J2124-3358 *******	12:02
+./41_023/41_023_31Jan2022.cmd.txt:****** Starting observation of PSR J2124-3358 *******	11:02
+./41_023/41_023_11Feb2022.cmd.txt:****** Starting observation of PSR J2124-3358 *******	10:02
+./41_023/41_023_20Feb2022.cmd.txt:****** Starting observation of PSR J2124-3358 *******	11:04
+./35_016/35_016_set2_22oct2018.cmd.txt:**********  Phasing 14 and  PSR J2124-3358  ***************19:35
+./34_102_set2_22Jun2018.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  ***************02:55
+./35_016_set2_24Feb2019.cmd.txt:**********  Phasing 14 and  PSR J2145-0750  *************** 11:13
+./35_016_set2_8Jan2019_makeup.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  *************** 18:03 
+./34_102_set2_21May2018.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  ***************04:35
+./34_102_set2_8Jul2018.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  ***************00:55
+./34_102_set2_10Aug2018.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  ***************22:55
+./34_102_set2_25Aug2018.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  ***************21:55
+./35_016_set2_25Mar2019.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  *************** 8:19
+./35_016_set2_18Nov2018.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  *************** 17:21
+./35_016_set2_29Dec2018.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  *************** 13:49
+./34_102_set2_7Jun2018.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  ***************02:55
+./34_102_set2_28Sep2018.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  ***************00:55
+./35_016_set2_10Feb2019.cmd.txt:**********  Phasing 14 and  PSR J2145-0750  *************** 11:21
+./40_012/40_012_26May2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	08:18
+./40_012/40_012_15May2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	07:58
+./40_012/40_012_05Jun2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	03:59
+./40_012/40_012_15June2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	03:59
+./40_012/40_012_26Jun2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	02:00
+./40_012/40_012_08Jul2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	04:00
+./40_012/40_012_12Sep2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	20:59
+./40_012/40_012_18Jul2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	00:59
+./40_012/40_012_30Jul2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	00:56
+./40_012/40_012_15Aug2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	23:00
+./40_012/40_012_23Aug2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	21:59
+./40_012/40_012_03Sep2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	21:59
+./40_012/40_012_11sep2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	19:25
+./40_012/40_012_24Sep2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	21:59
+./40_012/40_012_02Oct2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	20:59
+./40_012/40_012_09Oct2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	19:23
+./35_016_set2_27Jan2019.cmd.txt:**********  Phasing 14 and  PSR J2145-0750  *************** 12:21
+./35_016_set2_1Dec2018.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  *************** 16:21
+./34_102_set2_23Jul2018.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  ***************23:55
+./35_016_set2_12Jan2019.cmd.txt:**********  Phasing 14 and  PSR J2145-0750  *************** 12:21
+./38_014/command_files/38_014_08Jun2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	03:05
+./38_014/command_files/38_014_11Oct2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	18:00
+./38_014/command_files/38_014_01June2020.cmd.txt:**********  Phasing 6 and  PSR J2145-0750  *************** 07:05  
+./38_014/command_files/38_014_24May2020.cmd.txt:**********  Phasing 6 and  PSR J2145-0750  *************** 06:05  
+./38_014/command_files/38_014_16Jun2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	05:30 - 5:50
+./38_014/command_files/38_014_21Aug2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	22:05
+./38_014/command_files/38_014_21Sep2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	19:40
+./38_014/command_files/38_014_08Sep2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	19:45
+./38_014/command_files/38_014_02Jul2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	04:05
+./38_014/command_files/38_014_01Sep2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	22:05
+./38_014/command_files/38_014_14Sep2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	00:00
+./38_014/command_files/38_014_22Jun2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	00:30
+./38_014/command_files/38_014_14Aug2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	22:05
+./38_014/command_files/38_014_01Aug2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	21:40
+./38_014/command_files/38_014_08Jul2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	04:45
+./38_014/command_files/38_014_14Jul2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	23:30
+./23july18.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  ***************23:55
+./35_016_set2_10Mar2019.cmd.txt:**********  Phasing 14 and  PSR J2145-0750  *************** 09:35
+./37_010/command_files/37_010_07Dec2019.cmd.txt:**********  Phasing 6 and  PSR J2145-0750  *************** 13:00
+./37_010/command_files/37_010_17Nov2019.cmd.txt:**********  Phasing 6 and  PSR J2145-0750  *************** 17:00  16:50
+./37_010/command_files/37_010_05Nov2019.cmd.txt:**********  Phasing 6 and  PSR J2145-0750  *************** 17:00
+./37_010/command_files/37_010_24Feb2020.cmd.txt:**********  Phasing 6 and  PSR J2145-0750  *************** 08:00  
+./37_010/command_files/37_010_16Dec2019.cmd.txt:**********  Phasing 6 and  PSR J2145-0750  *************** 12:10
+./37_010/command_files/37_010_26Jan2020.cmd.txt:**********  Phasing 4 and  PSR J2145-0750  *************** 07:30  
+./37_010/command_files/37_010_03Feb2020.cmd.txt:**********  Phasing 4 and  PSR J2145-0750  *************** 09:30 
+./37_010/command_files/37_010_26Nov2019.cmd.txt:**********  Phasing 6 and  PSR J2145-0750  *************** 17:00  
+./37_010/command_files/37_010_25Oct2019.cmd.txt:**********  Phasing 6 and  PSR J2145-0750  *************** 17:00
+./37_010/command_files/37_010_22May2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	7:45
+./37_010/command_files/37_010_27Dec2019.cmd.txt:**********  Phasing 6 and  PSR J2145-0750  *************** 11:55 12:00
+./37_010/command_files/37_010_14Feb2020.cmd.txt:**********  Phasing 6 and  PSR J2145-0750  *************** 09:00  
+./37_010/command_files/37_010_26Oct2019.cmd.txt:**********  Phasing 1 and  PSR J2145-0750  *************** 20:30
+./37_010/command_files/37_010_6JAN2020.cmd.txt:**********  Phasing 6 and  PSR J2145-0750  *************** 10:55 11:00
+./37_010/command_files/37_010_14Mar2020.cmd.txt:**********  Phasing 6 and  PSR J2145-0750  *************** 09:30  
+./37_010/command_files/37_010_17Jan2020.cmd.txt:**********  Phasing 6 and  PSR J2145-0750  *************** 12:00  
+./37_010/command_files/37_010_06Mar2020.cmd.txt:**********  Phasing 6 and  PSR J2145-0750  *************** 09:30  
+./39_013/39_013_03Nov2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	18:55
+./39_013/39_013_22Nov2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	16:05
+./39_013/39_013_13Dec2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	16:55
+./39_013/39_013_04Dec2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	16:55
+./39_013/39_013_25Dec2020.cmd.txt:****** Starting observation of PSR J2145-0750 *******	11:55
+./39_013/39_013_03Jan2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	12:55
+./39_013/39_013_24Jan2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	13:55
+./39_013/39_013_16Jan2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	11:55
+./39_013/39_013_19Feb2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	09:55
+./39_013/39_013_07Feb2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	09:55
+./39_013/39_013_27Feb2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	08:55
+./39_013/39_013_08Mar2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	08:55
+./39_013/39_013_15Mar2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	07:55
+./39_013/39_013_28Mar2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	06:55
+./39_013/39_013_05Apr2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	06:55
+./34_102_set2_10Sep2018.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  ***************20:55
+./35_016_set2_15Dec2018.cmd.txt:**********  Phasing 15 and  PSR J2145-0750  *************** 14:55
+./34_102_set2_3May2018.cmd.txt:**********  Phasing 13 and  PSR J2145-0750  ***************04:30
+./41_023/41_023_02Nov2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	16:58
+./41_023/41_023_13Nov2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	16:58
+./41_023/41_023_22Nov2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	15:55
+./41_023/41_023_03Dec2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	13:34
+./41_023/41_023_12Dec2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	17:01
+./41_023/41_023_21Dec2021.cmd.txt:****** Starting observation of PSR J2145-0750 *******	15:01
+./41_023/41_023_01Jan2022.cmd.txt:****** Starting observation of PSR J2145-0750 *******	14:01
+./41_023/41_023_11Jan2022.cmd.txt:****** Starting observation of PSR J2145-0750 *******	16:01
+./41_023/41_023_21Jan2022.cmd.txt:****** Starting observation of PSR J2145-0750 *******	13:01
+./41_023/41_023_31Jan2022.cmd.txt:****** Starting observation of PSR J2145-0750 *******	12:01
+./41_023/41_023_11Feb2022.cmd.txt:****** Starting observation of PSR J2145-0750 *******	11:01
+./41_023/41_023_20Feb2022.cmd.txt:****** Starting observation of PSR J2145-0750 *******	08:24
+./34_102_set2_22Jun2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  ***************03:30
+./35_016_set2_24Feb2019.cmd.txt:**********  Phasing 15 and  PSR J2317+1439  *************** 11:45
+./35_016_set2_8Jan2019_makeup.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  *************** 18:37 
+./34_102_set2_21May2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  ***************05:05
+./34_102_set2_8Jul2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  ***************01:30
+./34_102_set2_10Aug2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  ***************23:30
+./34_102_set2_25Aug2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  ***************22:30
+./35_016_set2_25Mar2019.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  *************** 8:51
+./35_016_set2_18Nov2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  *************** 17:55
+./35_016_set2_29Dec2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  *************** 14:21
+./34_102_set2_7Jun2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  ***************03:30
+./34_102_set2_28Sep2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  ***************01:30
+./35_016_set2_10Feb2019.cmd.txt:**********  Phasing 15 and  PSR J2317+1439  *************** 11:55
+./34_102_set2_14Sep2018.cmd.txt:**********  Phasing 1 and  PSR J2317+1439  ***************22:45
+./35_016_set2_27Jan2019.cmd.txt:**********  Phasing 15 and  PSR J2317+1439  *************** 12:55
+./35_016_set2_1Dec2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  *************** 16:55
+./34_102_set2_23Jul2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  ***************00:30
+./35_016_set2_12Jan2019.cmd.txt:**********  Phasing 15 and  PSR J2317+1439  *************** 12:55
+./23july18.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  ***************00:30
+./35_016_set2_10Mar2019.cmd.txt:**********  Phasing 15 and  PSR J2317+1439  *************** 10:10
+./35_016_set2_22Oct2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  ***************20:35
+./35_016_set2_9Nov2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  ***************19:05
+./34_102_set2_10Sep2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  ***************21:30
+./35_016_set2_15Dec2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  *************** 15:27
+./34_102_set2_3May2018.cmd.txt:**********  Phasing 15 and  PSR J2317+1439  ***************05:30
+./35_016/35_016_set2_22oct2018.cmd.txt:**********  Phasing 16 and  PSR J2317+1439  ***************20:35
+./34_102_set2_22Jun2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 ***************04:10
+./35_016_set2_24Feb2019.cmd.txt:**********  Phasing 16 and  PSR  J2302+4442 *************** 12:19
+./35_016_set2_8Jan2019_makeup.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 *************** 19:11 
+./34_102_set2_21May2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 ***************05:35
+./34_102_set2_8Jul2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 ***************02:10
+./34_102_set2_10Aug2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 ***************00:10
+./34_102_set2_25Aug2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 ***************23:10
+./35_016_set2_25Mar2019.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 *************** 9:23
+./35_016_set2_18Nov2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 *************** 18:29
+./35_016_set2_29Dec2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 *************** 14:53
+./34_102_set2_7Jun2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 ***************04:10
+./34_102_set2_28Sep2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 ***************02:10
+./35_016_set2_10Feb2019.cmd.txt:**********  Phasing 16 and  PSR  J2302+4442 *************** 12:29
+./34_102_set2_14Sep2018.cmd.txt:**********  Phasing 2 and  PSR  J2302+4442 ***************23:25
+./35_016_set2_27Jan2019.cmd.txt:**********  Phasing 16 and  PSR  J2302+4442 *************** 13:29
+./35_016_set2_1Dec2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 *************** 17:29
+./34_102_set2_23Jul2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 ***************01:10
+./35_016_set2_12Jan2019.cmd.txt:**********  Phasing 16 and  PSR  J2302+4442 *************** 13:29
+./23july18.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 ***************01:10
+./35_016_set2_10Mar2019.cmd.txt:**********  Phasing 16 and  PSR  J2302+4442 *************** 10:45
+./35_016_set2_22Oct2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 ***************21:05
+./35_016_set2_9Nov2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 ***************19:35
+./34_102_set2_10Sep2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 ***************22:10
+./35_016_set2_15Dec2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 *************** 16:19
+./34_102_set2_3May2018.cmd.txt:**********  Phasing 14 and  PSR  J2302+4442 ***************05:00
+./35_016/35_016_set2_22oct2018.cmd.txt:**********  Phasing 17 and  PSR  J2302+4442 ***************21:05
